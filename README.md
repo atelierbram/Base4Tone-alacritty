@@ -8,3 +8,6 @@ One might have to edit some preferences in the config, like the value for font-f
 ### Resources
 - Preview of how Base4Tone themes can look like at [Base4Tone-prism](https://atelierbram.github.io/Base4Tone-prism/b4t_modern-n/dark/)
 
+### More colorschemes for Alacritty
+- [Base2Tone-alacritty](https://github.com/atelierbram/Base2Tone-alacritty)
+- [Atelier-Schemes Alacritty](https://github.com/atelierbram/atelier-schemes-alacritty)
