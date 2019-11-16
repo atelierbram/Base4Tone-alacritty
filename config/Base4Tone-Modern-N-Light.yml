@@ -1,6 +1,6 @@
 # colorscheme: B4T_Modern-N by Bram de Haan
 # project: https://github.com/atelierbram/Base4Tone-alacritty
-# https://github.com/atelierbram/Base4Tone-alacritty/blob/master/config/Base4Tone_Modern_N_Light.yml
+# https://github.com/atelierbram/Base4Tone-alacritty/blob/master/config/Base4Tone-Modern-N-Light.yml
 # Configuration for Alacritty, the GPU enhanced terminal emulator.
 # Any items in the `env` entry below will be added as
 # environment variables. Some entries may override variables

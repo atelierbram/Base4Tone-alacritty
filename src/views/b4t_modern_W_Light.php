@@ -4,7 +4,7 @@ ini_set('display_errors', true);
 ini_set('html_errors', false);
 
 include_once "../db/schemes/vars-hex-b4t_modern-w.php";
-$url_file = "https://github.com/atelierbram/Base4Tone-alacritty/blob/master/config/Base4Tone_Modern_W_Light.yml";
+$url_file = "https://github.com/atelierbram/Base4Tone-alacritty/blob/master/config/Base4Tone-Modern-W-Light.yml";
 
 echo "# colorscheme: $scheme by $author\n";
 echo "# project: $url_project\n";

@@ -1,6 +1,6 @@
 # colorscheme: Base4Tone_Modern-C by Bram de Haan
 # project: https://github.com/atelierbram/Base4Tone-alacritty
-# https://github.com/atelierbram/Base4Tone-alacritty/blob/master/config/Base4Tone_Modern_C_Light.yml
+# https://github.com/atelierbram/Base4Tone-alacritty/blob/master/config/Base4Tone-Modern-C-Light.yml
 
 # Configuration for Alacritty, the GPU enhanced terminal emulator.
 # Any items in the `env` entry below will be added as
