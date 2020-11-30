@@ -44,8 +44,9 @@ overwrite_to_file()
   curl "http://localhost/~bram/github.com/atelierbram/base4tone-alacritty/src/views/b4t_modern_N_Light.php" > "config/Base4Tone-Modern-N-Light.yml"
   curl "http://localhost/~bram/github.com/atelierbram/base4tone-alacritty/src/views/b4t_modern_W_Light.php" > "config/Base4Tone-Modern-W-Light.yml"
   #
-  # cp "config/Base4Tone-Modern-N-Dark.yml" "/Users/bram/.config/alacritty/alacritty.yml"
-  cp "config/Base4Tone-Classic-I-Light.yml" "/Users/bram/.config/alacritty/alacritty.yml"
+  cp "config/Base4Tone-Modern-N-Dark.yml" "/Users/bram/.config/alacritty/alacritty.yml"
+  # cp "config/Base4Tone-Classic-I-Light.yml" "/Users/bram/.config/alacritty/alacritty.yml"
+  # cp "config/Base4Tone-Classic-A-Light.yml" "/Users/bram/.config/alacritty/alacritty.yml"
 }
 
 # execute it
